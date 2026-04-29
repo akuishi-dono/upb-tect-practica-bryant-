@@ -1,0 +1,11 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple modular calculator in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
